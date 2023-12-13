@@ -1,3 +1,5 @@
 # Dog
 
-Sound: Bark
+Category: Beastly
+
+Sound: Ruff

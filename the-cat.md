@@ -1,3 +1,4 @@
-# Cat
+# Feline
 
-Sound: Meow
+Sound: prrrrrrrr
+Legs: 4
