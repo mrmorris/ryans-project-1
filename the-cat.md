@@ -1,3 +1,6 @@
 # Cat
 
-Sound: Meow
+---
+
+Sound: Purr
+Legs: 4
