@@ -1,5 +1,6 @@
-# Dog
+# Mutt
 
-Category: Beastly
+---
 
-Sound: Ruff
+Sound: Bark
+Tails: 1
