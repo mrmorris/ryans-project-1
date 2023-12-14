@@ -1,6 +1,4 @@
 # Feline
 
----
-
-Sound: Purr
+Sound: prrrrrrrr
 Legs: 4
